@@ -11,7 +11,7 @@ header {
     padding-bottom: 40px;
 }
 nav {
-    flex: 1;
+    border-radius: 2px;
     display: flex;
     gap: 20px;
 }
@@ -41,35 +41,37 @@ nav {
     background-color: #cfcfcf;
 }
 h1 {
+    width: 228px; height: 25px;
+    border-radius: 2px;
     background-color: #A8A8A8;
 }
 .use-box {
-    flex: 1;
+    border-radius: 2px;
     display: flex;
     gap: 20px;
 }
-.use-box01 {
-    width: 36px; height: 12px;
+.u-box01 {
+    width: 68px; height: 12px;
     border-radius: 2px;
     background: #CFCFCF;
 }
-.use-box02 {
-    width: 84px; height: 12px;
-    border-radius: 2px;
-    background: #CFCFCF;
-}
-.use-box03 {
-    width: 58px; height: 12px;
-    border-radius: 2px;
-    background: #CFCFCF;
-}
-.use-box04 {
+.u-box02 {
     width: 92px; height: 12px;
     border-radius: 2px;
     background: #CFCFCF;
 }
-.use-box05 {
-    width: 68px; height: 12px;
+.u-box03 {
+    width: 58px; height: 12px;
+    border-radius: 2px;
+    background: #CFCFCF;
+}
+.u-box04 {
+    width: 84px; height: 12px;
+    border-radius: 2px;
+    background: #CFCFCF;
+}
+.u-box05 {
+    width: 36px; height: 12px;
     border-radius: 2px;
     background: #CFCFCF;
 }
