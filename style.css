@@ -1,0 +1,88 @@
+header {
+    height: 86px;
+    border: 2px solid #E3E3E3;
+    background: #FFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 34px;
+    padding-bottom: 40px;
+}
+nav {
+    flex: 1;
+    display: flex;
+    gap: 20px;
+}
+.nav-box01 {
+    width: 95px; height: 12px;
+    border-radius: 2px;
+    background-color: #cfcfcf;
+}
+.nav-box02 {
+    width: 112px; height: 12px;
+    border-radius: 2px;
+    background-color: #cfcfcf;
+}
+.nav-box03 {
+    width: 148px; height: 12px;
+    border-radius: 2px;
+    background-color: #cfcfcf;
+}
+.nav-box04 {
+    width: 72px; height: 12px;
+    border-radius: 2px;
+    background-color: #cfcfcf;
+}
+.nav-box05 {
+    width: 88px; height: 12px;
+    border-radius: 2px;
+    background-color: #cfcfcf;
+}
+h1 {
+    background-color: #A8A8A8;
+}
+.use-box {
+    flex: 1;
+    display: flex;
+    gap: 20px;
+}
+.use-box01 {
+    width: 36px; height: 12px;
+    border-radius: 2px;
+    background: #CFCFCF;
+}
+.use-box02 {
+    width: 84px; height: 12px;
+    border-radius: 2px;
+    background: #CFCFCF;
+}
+.use-box03 {
+    width: 58px; height: 12px;
+    border-radius: 2px;
+    background: #CFCFCF;
+}
+.use-box04 {
+    width: 92px; height: 12px;
+    border-radius: 2px;
+    background: #CFCFCF;
+}
+.use-box05 {
+    width: 68px; height: 12px;
+    border-radius: 2px;
+    background: #CFCFCF;
+}
+main {
+    height: 2526px;
+    background: #FFF;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+footer {
+    height: 68px;
+    border: 2px solid #E3E3E3;
+    background: #FAFAFA;
+}
